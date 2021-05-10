@@ -15,5 +15,9 @@ def subtract2Numbers(num1, num2)
 def add2Numbers(num1,num2):
 	result = num1 + num2
 	print("addition result: ", result)
-	
+
+def subtractNumbers_wrong(num1,num2):
+	result = num1 - num2 - 1
+	print("wrong result: ", result)
+
 #print("hello world")
